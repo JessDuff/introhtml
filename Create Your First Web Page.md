@@ -20,7 +20,7 @@ And save the file with the Web Page (.html) file format:
 
 Finally, in your web browser go to File and click Open File. You must find the HTML you just created and open it. Should be like this:
 
-![Result](introhtml/img2.png)
+![Result](imagenes/img2.png)
 
 Now, congratulations! You just created your first HTML page! 
 
