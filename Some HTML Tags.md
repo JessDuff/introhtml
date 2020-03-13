@@ -1,6 +1,8 @@
 # Some HTML Tags
 ### Paragraph: `<p>`
+It works when you want to make a paragraph. By default, the text begins on a new line.
 ![Paragraph Tag](imagenes/p_tag.png)
+- - - -
 ### Bold: `<b>`
 ![Bold Tag](imagenes/b_tag.png)
 ### Italic: `<i>`
