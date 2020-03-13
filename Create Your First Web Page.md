@@ -16,7 +16,7 @@ Let’s create your first HTML page. You must open the text editor of your choic
 
 And save the file with the Web Page (.html) file format:
 
-![](Create%20Your%20First%20Web%20Page/Screen%20Shot%202020-03-12%20at%209.34.36%20PM.png)
+![Save the file](/introhtml//html/img1.jpg)
 
 Finally, in your web browser go to File and click Open File. You must find the HTML you just created and open it. Should be like this:
 
