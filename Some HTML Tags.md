@@ -6,7 +6,7 @@
 ### Italic: `<i>`
 ![Italic Tag](imagenes/i_tag.png)
 ### Line break: `<br />`
-![Line Break Tag](imagenes/ln_tag.png)
+![Line Break Tag](imagenes/lb_tag.png)
 ### Horizontal rule: `<hr />`
 ![Horizontal Rule Tag](imagenes/hr_tag.png)
 ### Strong: `<strong>`
