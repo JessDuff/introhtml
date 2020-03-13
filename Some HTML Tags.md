@@ -1,6 +1,6 @@
 # Some HTML Tags
 ### Paragraph: `<p>`
-![Paragraph Tag](imagenes/p_ta.png)
+![Paragraph Tag](imagenes/p_tag.png)
 ### Bold: `<b>`
 ![Bold Tag](imagenes/b_tag.png)
 ### Italic: `<i>`
