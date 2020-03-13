@@ -1,7 +1,10 @@
 # Some HTML Tags
 ### Paragraph: `<p>`
+![Paragraph Tag](imagenes/p_tag.png)
 ### Bold: `<b>`
+![Bold Tag](imagenes/b_tag.png)
 ### Italic: `<i>`
+![Italic Tag](imagenes/i_tag.png)
 ### Line break: `<br />`
 ### Horizontal rule: `<hr />`
 ### Strong: `<strong>`
